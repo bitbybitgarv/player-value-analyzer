@@ -4,7 +4,7 @@ A small machine learning project that estimates a Premier League player's market
 from his age, position and per-90 stats, then shows where the estimate and the real price
 disagree.
 
-**Live app:** [paste your streamlit link here]
+**Live app:** https://epl-player-value.streamlit.app
 
 ## What it does
 - Ranks 292 outfield players (2024/25, 900+ minutes) by how far the model's value
